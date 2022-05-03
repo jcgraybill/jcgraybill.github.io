@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+:wave: You can try out a few of my personal projects here. Things I've been working on lately include:
 
-You can use the [editor on GitHub](https://github.com/jcgraybill/jcgraybill.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+### ship-shape
+A supply chain management indie game ... IN SPACE! Built in [golang](https://go.dev/) using the [ebiten](https://ebiten.org/) 2D game library and [gg](https://github.com/fogleman/gg) 2D graphics library.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jcgraybill/jcgraybill.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### it costs money to be alive
+A short, simple, non-fighty side scroller indie game. Built in [golang](https://go.dev/) using the [ebiten](https://ebiten.org/) 2D game library. Tileset thanks to [ludicarts](https://ludicarts.itch.io/) *[license](https://www.ludicarts.com/license-2/)*, sounds [GameDev Market](https://www.gamedevmarket.net/) *[license](https://static.gamedevmarket.net/terms-conditions/#pro-licence)*, little running guy yoinked from the [ebiten animation demo](https://ebiten.org/examples/animation.html) (thanks!), typeface [Modak](https://github.com/EkType/Modak) *[license](https://github.com/EkType/Modak/blob/master/OFL.txt)*.
