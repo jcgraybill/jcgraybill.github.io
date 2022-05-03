@@ -2,7 +2,7 @@
 layout: content
 ---
 
-:wave: You can try out a few of my personal projects here. Things I've been working on lately include:
+:wave: This is me: [Twitter](https://twitter.com/JulesGraybill), [LinkedIn](https://www.linkedin.com/in/jules-graybill/), [GitHub](https://github.com/jcgraybill).  Things I've worked on lately include:
 
 ### ship-shape
 :rocket: A supply chain management indie game ... IN SPACE! Built in [golang](https://go.dev/) using the [ebiten](https://ebiten.org/) 2D game library and [gg](https://github.com/fogleman/gg) 2D graphics library. [Source code](https://github.com/jcgraybill/it-costs-money) on GitHub.
@@ -15,7 +15,7 @@ layout: content
 **Play it costs money to be alive** [:arrow_right:](/it-costs-money)
 
 ### OpenSearch
-:mag: I led the initiative to create [OpenSearch](https://opensearch.org/), a community-driven, open source search and analytics suite derived from Apache 2.0 licensed Elasticsearch 7.10.2 & Kibana 7.10.2. I'm no longer involved with this project, but both Elasticsearch and OpenSearch are great software. [Source code](https://github.com/opensearch-project) on GitHub.
+:mag: I led the project to create [OpenSearch](https://opensearch.org/), a community-driven, open source search and analytics suite derived from Apache 2.0 licensed Elasticsearch 7.10.2 & Kibana 7.10.2. I'm no longer involved with OpenSearch, but both it and Elasticsearch are great software. Use them! [Source code](https://github.com/opensearch-project) on GitHub.
 
 **Try OpenSearch**
 
