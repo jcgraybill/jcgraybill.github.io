@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<script src="wasm_exec.js"></script>
+<head><script src="/assets/js/wasm_exec.js"></script></head>
+<body style="background-color: black">
 <script>
 // Polyfill
 if (!WebAssembly.instantiateStreaming) {
@@ -14,3 +15,5 @@ WebAssembly.instantiateStreaming(fetch("ship-shape.wasm"), go.importObject).then
     go.run(result.instance);
 });
 </script>
+</body>
+</html>
