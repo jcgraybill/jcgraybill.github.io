@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 :wave: You can try out a few of my personal projects here. Things I've been working on lately include:
 
 ### ship-shape
