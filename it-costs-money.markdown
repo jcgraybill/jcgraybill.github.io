@@ -4,6 +4,7 @@ permalink: /it-costs-money/
 game: it-costs-money
 width: 1024
 height: 512
+youtube: https://www.youtube.com/embed/phaNrbvxWAY
 ---
 
 This is *it costs money to be alive*. While learning [Go](https://golang.org/), I was looking for some variety from the [usual](https://adventofcode.com/) [exercises](https://amazon.com/dp/1680501224) I use to learn a new language. I decided to make a small game, looked around for a moderately-priced tileset that inspired me, and used the [ebiten](https://ebiten.org/) 2D game library. All the levels are .csv files and live-reload in the game engine, so it's easy to add new content using (of all things) Microsoft Excel.

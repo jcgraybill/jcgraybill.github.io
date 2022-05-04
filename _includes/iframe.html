@@ -1,1 +1,18 @@
+<style>
+    #game-desktop {display: block;}
+    #game-mobile {display: none;}
+    
+    @media screen and (max-width: 768px) {
+    
+    #game-desktop {display: none;}
+    #game-mobile {display: block;}
+    
+    }
+</style>
+
+<div id="game-desktop">
 <iframe src="/games/{{page.game}}.html" width="{{page.width}}" height="{{page.height}}" style="margin: auto; display: block;" allow="autoplay"></iframe>
+</div>
+<div id="game-mobile">
+<iframe width="560" height="315" src="{{page.youtube}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="margin: auto; display: block;"></iframe>
+</div>
