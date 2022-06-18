@@ -4,6 +4,11 @@ layout: content
 
 :wave: This is me: [Twitter](https://twitter.com/JulesGraybill), [LinkedIn](https://www.linkedin.com/in/jules-graybill/), [GitHub](https://github.com/jcgraybill).  Things I've worked on lately include:
 
+### ebitengine game jam
+🧲🍤 A quickly-developed contribution to the first [ebitengine game jam](https://itch.io/jam/ebiten-game-jam). A tile-and-grid puzzle game, with a theme of magnets and magnetism.
+
+**See it here** [:arrow_right:](/game-jam/)
+
 ### ship-shape
 :rocket: A supply chain management indie game ... IN SPACE! Built in [golang](https://go.dev/) using the [ebiten](https://ebiten.org/) 2D game library and [gg](https://github.com/fogleman/gg) 2D graphics library. [Source code](https://github.com/jcgraybill/it-costs-money) on GitHub.
 
