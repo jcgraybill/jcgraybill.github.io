@@ -12,4 +12,4 @@ This little game currently has no title. It's going to be a [sokoban](https://en
 
 Press arrow keys to pulse an electromagnet on the corresponding edge of the board: all the magnetic pieces will move one cell in the direction of that magnet if they are able, pushing any moveable pieces along the way. The "magneticism" theme will be a little more clear once I add some animation. 
 
-Typeface is [Righteous](https://fonts.google.com/specimen/Righteous) ([Open Font License](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)).
+Typeface is [Righteous](https://fonts.google.com/specimen/Righteous) ([Open Font License](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)). Star or watch on [GitHub](https://github.com/jcgraybill/m)!
