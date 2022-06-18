@@ -13,4 +13,4 @@ There's not much to the game. I didn't want to build something about guns and fi
 
 One playable level is in the game, several more are *in my head*. 
 
-Tileset thanks to [ludicarts](https://ludicarts.itch.io/) *[license](https://www.ludicarts.com/license-2/)*, sounds [GameDev Market](https://www.gamedevmarket.net/) *[license](https://static.gamedevmarket.net/terms-conditions/#pro-licence)*, little running guy yoinked from the [ebiten animation demo](https://ebiten.org/examples/animation.html) (thanks!), typeface [Modak](https://github.com/EkType/Modak) *[license](https://github.com/EkType/Modak/blob/master/OFL.txt)*. 
+Tileset thanks to [ludicarts](https://ludicarts.itch.io/) *[license](https://www.ludicarts.com/license-2/)*, sounds [GameDev Market](https://www.gamedevmarket.net/) *[license](https://static.gamedevmarket.net/terms-conditions/#pro-licence)*, little running guy yoinked from the [ebitengine animation demo](https://ebiten.org/examples/animation.html) (thanks!), typeface [Modak](https://github.com/EkType/Modak) *[license](https://github.com/EkType/Modak/blob/master/OFL.txt)*. 

@@ -11,4 +11,4 @@ This is *ship-shape*. While building [it costs money to be alive](/it-costs-mone
 
 I got the basic engine working after a couple of weeks, then spent about a week building a 6-level tutorial and optimizing out some truly embarrassing inefficiencies. The tutorial is playable now - I'm going to playtest this a bit with friends and family, then add a real gameplay mode with objectives, challenges, leaderboards, and a lot more content. So if there's a feature you'd like to see, [open an issue](https://github.com/jcgraybill/ship-shape/issues).
 
-This is also built with the [ebiten](https://ebiten.org/) 2D game library. All the visuals are created in-engine using Michael Fogleman's [gg](https://github.com/fogleman/gg) graphics library.
+This is also built with the [ebitengine](https://ebiten.org/) 2D game library. All the visuals are created in-engine using Michael Fogleman's [gg](https://github.com/fogleman/gg) graphics library.
