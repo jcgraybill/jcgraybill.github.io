@@ -5,20 +5,22 @@ layout: content
 :wave: This is me: [Twitter](https://twitter.com/JulesGraybill), [LinkedIn](https://www.linkedin.com/in/jules-graybill/), [GitHub](https://github.com/jcgraybill).  Things I've worked on lately include:
 
 ### ❤️ attraction
-A quickly-developed contribution to the first [ebitengine game jam](https://itch.io/jam/ebiten-game-jam) 🧲🍤. It's a tile-and-grid puzzle game, with a theme of magnets and attraction, built in tribute to Pride Month 2022. [Play it on itch.io](https://ivlivs.itch.io/attraction)!
+A quickly-developed contribution to the first [ebitengine game jam](https://itch.io/jam/ebiten-game-jam). It's a tile-and-grid puzzle game, with a theme of magnets and attraction, built in tribute to Pride Month 2022. 
+
+<iframe frameborder="0" src="https://itch.io/embed/1589550" width="552" height="167"><a href="https://ivlivs.itch.io/attraction">❤️ attraction by ivlivs</a></iframe>
 
 ### ship-shape
-:rocket: A supply chain management indie game ... IN SPACE! Built in [golang](https://go.dev/) using the [ebitengine](https://ebiten.org/) 2D game library and [gg](https://github.com/fogleman/gg) 2D graphics library. [Source code](https://github.com/jcgraybill/it-costs-money) on GitHub.
+A supply chain management indie game ... IN SPACE! Built in [golang](https://go.dev/) using the [ebitengine](https://ebiten.org/) 2D game library and [gg](https://github.com/fogleman/gg) 2D graphics library. [Source code](https://github.com/jcgraybill/it-costs-money) on GitHub.
 
 **Play ship-shape** [:arrow_right:](/ship-shape/)
 
 ### it costs money to be alive
-:bank: A short, simple, non-fighty side scroller indie game. Built in [golang](https://go.dev/) using the [ebitengine](https://ebiten.org/) 2D game library. [Source code](https://github.com/jcgraybill/ship-shape) on GitHub.
+A short, simple, non-fighty side scroller indie game. Built in [golang](https://go.dev/) using the [ebitengine](https://ebiten.org/) 2D game library. [Source code](https://github.com/jcgraybill/ship-shape) on GitHub.
 
 **Play it costs money to be alive** [:arrow_right:](/it-costs-money/)
 
 ### OpenSearch
-:mag: I led the project to create [OpenSearch](https://opensearch.org/), a community-driven, open source search and analytics suite derived from Apache 2.0 licensed Elasticsearch 7.10.2 & Kibana 7.10.2. I'm no longer involved with OpenSearch, but both it and Elasticsearch are great software. Use them! [Source code](https://github.com/opensearch-project) on GitHub.
+I led the project to create [OpenSearch](https://opensearch.org/), a community-driven, open source search and analytics suite derived from Apache 2.0 licensed Elasticsearch 7.10.2 & Kibana 7.10.2. I'm no longer involved with OpenSearch, but both it and Elasticsearch are great software. Use them! [Source code](https://github.com/opensearch-project) on GitHub.
 
 **Try OpenSearch**
 
