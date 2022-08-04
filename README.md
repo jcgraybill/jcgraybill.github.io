@@ -2,6 +2,7 @@
 
 To preview on my own desktop, from the document root:
 ```
+bundle install
 bundle exec jekyll serve
 ```
 
