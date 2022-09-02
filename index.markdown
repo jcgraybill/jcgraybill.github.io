@@ -1,5 +1,5 @@
 ---
-layout: content
+layout: default
 ---
 
 :wave: This is me: [Twitter](https://twitter.com/JulesGraybill), [LinkedIn](https://www.linkedin.com/in/jules-graybill/), [GitHub](https://github.com/jcgraybill).  Some things I've done:
