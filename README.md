@@ -1,6 +1,8 @@
 # jcgraybill.github.io
 
-To preview on my own desktop, from the document root:
+Developed with Ruby 3.1.2. Install on [Windows](https://jekyllrb.com/docs/installation/windows/).
+
+To preview on a desktop, from the document root:
 ```
 bundle install
 bundle exec jekyll serve
