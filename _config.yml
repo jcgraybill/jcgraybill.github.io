@@ -24,10 +24,15 @@ description: open source software
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jcgraybill.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
+twitter_username: julesgraybill
+github_username:  jcgraybill
+linkedin_username: jules-graybill
+
 # Build settings
 theme: minima
 plugins:
   - jemoji
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.

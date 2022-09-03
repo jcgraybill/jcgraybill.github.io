@@ -2,7 +2,8 @@
 layout: default
 ---
 
-:wave: This is me: [Twitter](https://twitter.com/JulesGraybill), [LinkedIn](https://www.linkedin.com/in/jules-graybill/), [GitHub](https://github.com/jcgraybill).  Some things I've done:
+### :wave: 
+This is me: [Twitter](https://twitter.com/JulesGraybill), [LinkedIn](https://www.linkedin.com/in/jules-graybill/), [GitHub](https://github.com/jcgraybill).  Some things I've done:
 
 ### OpenSearch
 At AWS, I was in charge of [OpenSearch](https://opensearch.org/), an open source fork of [Elasticsearch](https://www.elastic.co/elasticsearch/). I'm no longer involved with OpenSearch, but both it and Elasticsearch are great software.
@@ -19,4 +20,5 @@ I've been writing 2D videogames using [Hajime Hoshi](https://hajimehoshi.com/)'s
 * **ship-shape**:  Supply chain management... *in space!* [Play it in your browser](/ship-shape/).
 * **it costs money to be alive**: A short, simple side scroller. [Play it in your browser](/it-costs-money/).
 
-
+### Restoring vintage computers
+One of my favorite places in Seattle was the [Living Computer Museum + Labs](https://www.livingcomputers.org/), which is indefinitely - likely permanently - closed. Perhaps some civic-minded billionaire will reopen it to the public one day. In the meantime, I made a list of the computers that were most meaningful to me - several 8-bit and 16-bit home computers from the 1980s, plus a few pizza-box UNIX workstations and Macintoshes from the 1990s - then set about getting ahold of as many as I could. I've been cleaning them up, restoring them, (occasionally) retrobriting them back toward their original color, and generally getting them into condition where they can be displayed and used. I'm documenting the process and what I learn [here](/vintage-computers/). 
