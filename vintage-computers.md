@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /vintage-computers/
 ---
 
 ### restoring vintage computers
