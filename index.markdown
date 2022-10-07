@@ -14,11 +14,12 @@ Try it out! Check your [`vm.max_map_count`](https://opensearch.org/docs/latest/o
     docker-compose up
     curl -k https://admin:admin@localhost:9200/
 
-### Ebitengine games
-I've been writing 2D videogames using [Hajime Hoshi](https://hajimehoshi.com/)'s excellent [Ebitengine](https://ebiten.org/) game library, to scratch my programming itch when I'm not building software at work. They're all various levels of complete. Here are a few that are playable and even a little fun. Enjoy!
+### Open source games
+I've been writing 2D videogames, mostly using [Hajime Hoshi](https://hajimehoshi.com/)'s excellent [Ebitengine](https://ebiten.org/) game library, to scratch my programming itch when I'm not building software at work. They're all various levels of complete. Here are a few that are playable and even a little fun. Enjoy!
 * **❤️ attraction**: A tile-and-grid puzzle game built for the [ebitengine game jam](https://itch.io/jam/ebiten-game-jam). [Play it on itch.io](https://ivlivs.itch.io/attraction).
 * **ship-shape**:  Supply chain management... *in space!* [Play it in your browser](/ship-shape/).
 * **it costs money to be alive**: A short, simple side scroller. [Play it in your browser](/it-costs-money/).
+* **Multi Pong**: Fire up your emulators, this is playable on Macintosh System 7. Built as part of the [68k programming study group](https://tinkerdifferent.com/threads/idea-macintosh-68k-programming-study-group.1681/) on [Tinker Different](https://tinkerdifferent.com/). [Get it here](https://github.com/jcgraybill/multipong/releases/tag/1.0-beta.2).
 
 ### Restoring vintage computers
-I'm restoring a small collection of computers from the 1980s and 1990s, and documenting the process and what I learn [here](/vintage-computers/). 
+I'm restoring a small collection of computers from the 1980s and 1990s, and [documenting the process and what I learn](/vintage-computers/). 
