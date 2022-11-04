@@ -3,7 +3,7 @@ layout: default
 ---
 
 ### :wave: 
-This is me: [Twitter](https://twitter.com/JulesGraybill), [LinkedIn](https://www.linkedin.com/in/jules-graybill/), [GitHub](https://github.com/jcgraybill).  Some things I've done:
+This is me: [LinkedIn](https://www.linkedin.com/in/jules-graybill/) / [GitHub](https://github.com/jcgraybill).  Some things I've done:
 
 ### OpenSearch
 At AWS, I was in charge of [OpenSearch](https://opensearch.org/), an open source fork of [Elasticsearch](https://www.elastic.co/elasticsearch/). I'm no longer involved with OpenSearch, but both it and Elasticsearch are great software.
