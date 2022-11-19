@@ -27,6 +27,9 @@ url: "https://jcgraybill.github.io/" # the base hostname & protocol for your sit
 #twitter_username: julesgraybill
 github_username:  jcgraybill
 linkedin_username: jules-graybill
+mastodon:
+- username: jcgraybill
+  instance: fosstodon.org
 
 # Build settings
 theme: minima
