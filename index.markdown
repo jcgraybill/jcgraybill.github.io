@@ -3,7 +3,7 @@ layout: default
 ---
 
 ### :wave: 
-This is me: [LinkedIn](https://www.linkedin.com/in/jules-graybill/) / [GitHub](https://github.com/jcgraybill) / Mastodon: <a rel="me" href="https://fosstodon.org/@jcgraybill">fosstodon.org</a> / <a rel="me" href="https://oldbytes.space/@jcgraybill">oldbytes.space</a>.  Some things I've done:
+This is me: [LinkedIn](https://www.linkedin.com/in/jules-graybill/) / [GitHub](https://github.com/jcgraybill) / Mastodon: <a rel="me" href="https://fosstodon.org/@jcgraybill">fosstodon.org</a> / <a rel="me" href="https://oldbytes.space/@jcgraybill">oldbytes.space</a> / <a rel="me" href="https://awscommunity.social/@jcgraybill">awscommunity.social</a>.  Some things I've done:
 
 ### Restoring vintage computers
 I'm restoring a small collection of computers from the 1980s and 1990s, and [documenting the process and what I learn](/vintage-computers/). 
