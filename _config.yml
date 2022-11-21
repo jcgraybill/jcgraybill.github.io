@@ -30,6 +30,8 @@ linkedin_username: jules-graybill
 mastodon:
 - username: jcgraybill
   instance: fosstodon.org
+- username: jcgraybill
+  instance: oldbytes.space
 
 # Build settings
 theme: minima
