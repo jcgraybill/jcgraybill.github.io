@@ -32,6 +32,8 @@ mastodon:
   instance: fosstodon.org
 - username: jcgraybill
   instance: oldbytes.space
+- username: jcgraybill
+  instance: awscommunity.social
 
 # Build settings
 theme: minima
