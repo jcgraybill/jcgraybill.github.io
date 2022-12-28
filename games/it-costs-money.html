@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<head><script src="/assets/js/wasm_exec.js"></script></head>
+<head><script src="https://media.julesgraybill.com/js/wasm_exec.js"></script></head>
 <body style="background-color: black">
 <script>
 // Polyfill
@@ -11,7 +11,7 @@ if (!WebAssembly.instantiateStreaming) {
 }
 
 const go = new Go();
-WebAssembly.instantiateStreaming(fetch("it-costs-money.wasm"), go.importObject).then(result => {
+WebAssembly.instantiateStreaming(fetch("https://media.julesgraybill.com/wasm/it-costs-money-1672271288.wasm"), go.importObject).then(result => {
     go.run(result.instance);
 });
 </script>
