@@ -1,4 +1,4 @@
-disk MacOS753.img
+disk boot.img
 disk multipong.img
 extfs /
 screen win/800/600
@@ -12,8 +12,8 @@ bootdriver 0
 ramsize 4194304
 frameskip 1
 modelid 14
-cpu 4
-fpu true
+cpu 3
+fpu false
 nocdrom true
 nosound false
 noclipconversion false
