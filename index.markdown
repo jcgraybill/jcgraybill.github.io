@@ -22,4 +22,4 @@ Try it out! Check your [`vm.max_map_count`](https://opensearch.org/docs/latest/o
     curl -k https://admin:admin@localhost:9200/
 
 ### Restoring old computers
-I'm restoring a small collection of computers from the 1980s and 1990s, and [documenting the process and what I learn](/vintage-computers/). 
+I'm restoring a small collection of computers from the 1980s and 1990s, and [writing about the process and what I learn](/vintage-computers/). 
