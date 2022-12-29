@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+<style>
+      body {
+        font-family: arial;
+        color: whitesmoke;
+        margin: 0;
+        padding: none;
+        background-color: black;
+      }
+
+      .emscripten {
+        padding-right: 0;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+      }
+      div.emscripten {
+        text-align: center;
+      }
+      div.emscripten_border {
+        border: 1px solid black;
+      }
+      /* the canvas *must not* have any border or padding, or mouse coords will be wrong */
+      canvas.emscripten {
+        border: 0px none;
+        background-color: black;
+        cursor: none;
+      }
+      h1 {
+        font-size: 20px;
+      }
+
+      @keyframes blinker {
+        50% {
+          opacity: 0;
+        }
+      }
+
+      #loading {
+      }
+      #loading .text {
+        animation: blinker 1s linear infinite;
+        display: none;
+      }
+      .loading #loading .text {
+        padding-top: 8px;
+        display: block;
+      }
+    </style>
+</head>
+<body class="loading">
+<div class="intro">
+<script type="text/javascript">
+          if (typeof SharedArrayBuffer !== 'undefined') {
+            document.getElementById('compatMessage').style.display = 'block';
+          }
+        </script>
+</div>
+<div id="loading">
+<span class="text spinner" id="spinner">downloading (30mb)...</span>
+<progress value="10" max="100" id="progress"></progress>
+<div class="emscripten" style="display: none" id="status">
+Downloading...
+</div>
+</div>
+</div>
+<canvas width="800" height="600" class="emscripten" id="canvas" oncontextmenu="event.preventDefault()"></canvas>
+<script type="text/javascript">
+      window.basiliskConfig = {
+        singleThreadedEmscripten: true,
+        baseURL: 'https://media.julesgraybill.com/basiliskii/',
+        autoloadFiles: [
+          'https://media.julesgraybill.com/basiliskii/MacOS753.img',
+          'https://media.julesgraybill.com/basiliskii/Quadra-650.rom',
+          '/multipong/multipong.img',
+          '/multipong/prefs',
+        ],
+        arguments: ['--config', 'prefs'],
+      };
+    </script>
+    <script src="https://media.julesgraybill.com/basiliskii/BasiliskII-worker-ui-thread.js"></script>
+</body>
+</html>

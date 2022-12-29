@@ -5,6 +5,17 @@ layout: default
     <section id="main_content" class="inner">
       {{ content }}
     </section>
-    <section class="img">
+    <style>
+.full-width {
+	left: 50%;
+	margin-left: -50vw;
+	margin-right: -50vw;
+	max-width: 100vw;
+	position: relative;
+	right: 50%;
+	width: 100vw;
+}
+    </style>
+    <section class="full-width">
     {% include iframe.html %}
     </section>
