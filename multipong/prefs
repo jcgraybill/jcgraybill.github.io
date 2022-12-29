@@ -9,7 +9,7 @@ udpport 6066
 rom Quadra-650.rom
 bootdrive 0
 bootdriver 0
-ramsize 4194304
+ramsize 2097152
 frameskip 1
 modelid 14
 cpu 3
