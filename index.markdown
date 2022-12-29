@@ -10,7 +10,7 @@ I've been writing 2D videogames, mostly using the excellent [Ebitengine](https:/
 * **❤️ attraction**: A tile-and-grid puzzle game built for the [ebitengine game jam](https://itch.io/jam/ebiten-game-jam). [Play it on itch.io](https://ivlivs.itch.io/attraction).
 * **ship-shape**:  Supply chain management... *in space!* [Play it in your browser](/ship-shape/).
 * **it costs money to be alive**: A short, simple side scroller. [Play it in your browser](/it-costs-money/).
-* **Multi Pong**: Fire up your emulators, this is playable on Macintosh System 7. Built as part of the [68k programming study group](https://tinkerdifferent.com/threads/idea-macintosh-68k-programming-study-group.1681/) on [Tinker Different](https://tinkerdifferent.com/). [Get it here](https://github.com/jcgraybill/multipong/releases).
+* **Multi Pong**: A multi-window pong game. Fire up your emulators, blow the dust off that Quadra 650 in the closet, this is only playable on Macintosh System 7. Also, you can [try it in your browser](/multi-pong/). 
 
 ### OpenSearch
 I was once in charge of [OpenSearch](https://opensearch.org/), an open source fork of [Elasticsearch](https://www.elastic.co/elasticsearch/). I'm no longer involved with OpenSearch, but both it and Elasticsearch are great software.
