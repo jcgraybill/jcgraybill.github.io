@@ -79,7 +79,13 @@ Downloading...
         ],
         arguments: ['--config', 'prefs'],
       };
-    </script>
-    <script src="https://media.julesgraybill.com/basiliskii/BasiliskII-worker-ui-thread.js"></script>
+
+if (crossOriginIsolated) {
+  document.write('<script src="https://media.julesgraybill.com/basiliskii/BasiliskII-worker-ui-thread.js"><\/script>');
+} else {
+  document.write('<script src="https://media.julesgraybill.com/basiliskii/mt/BasiliskII-mainthread-boot.js"><\/script>');
+  document.write('<script src="https://media.julesgraybill.com/basiliskii/mt/BasiliskII.js"><\/script>');
+}
+</script>
 </body>
 </html>
