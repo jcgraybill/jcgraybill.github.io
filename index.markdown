@@ -3,7 +3,7 @@ layout: default
 ---
 
 ### :wave: 
-This is me: [LinkedIn](https://www.linkedin.com/in/jules-graybill/) / [GitHub](https://github.com/jcgraybill) / Mastodon: <a rel="me" href="https://fosstodon.org/@jcgraybill">fosstodon.org</a> / <a rel="me" href="https://oldbytes.space/@jcgraybill">oldbytes.space</a> / <a rel="me" href="https://awscommunity.social/@jcgraybill">awscommunity.social</a>.  Some things I've done:
+This is me: [LinkedIn](https://www.linkedin.com/in/jules-graybill/) / [GitHub](https://github.com/jcgraybill) / Mastodon: <a rel="me" href="https://fosstodon.org/@jcgraybill">fosstodon.org</a> / <a rel="me" href="https://oldbytes.space/@jcgraybill">oldbytes.space</a>.  Some things I've done:
 
 ### Indie games
 I've been writing 2D videogames, mostly using the excellent [Ebitengine](https://ebitengine.org/) game library, to scratch my programming itch when I'm not writing software at work. They're all various levels of complete. Here are a few that are playable and even a little fun. Enjoy!
