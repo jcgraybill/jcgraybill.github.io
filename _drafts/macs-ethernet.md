@@ -9,7 +9,7 @@ The two challenges to getting the 1990s macintoshes online are:
 1. Web browsers from this era don't implement modern web standards - specifically SSL - and so most websites won't even allow connections from them. It looks like this can be worked around by using a proxy server: I'm going to try [the WebOne proxy](https://github.com/atauenis/webone) for this.
 2. Only one of the computers - a Power Macintosh G3 from 1997 - even has an [RJ45 Ethernet port](https://en.wikipedia.org/wiki/Modular_connector#8P8C). This is what I'm tackling in this blog post.
 
-A couple of them have proprietary [AAUI-15 ports](https://en.wikipedia.org/wiki/Apple_Attachment_Unit_Interface), which seems to be easy enough to work around, with these [Farallon EtherMac 10Base-T Ethernet AAUI transceivers](https://apple.fandom.com/wiki/EtherMac), which I bought from [Tech by Androda](https://androda.work/product/farallon-pn512b-aaui-10-baset-ethernet-transceiver/). 
+A couple of them have proprietary [AAUI-15 ports](https://en.wikipedia.org/wiki/Apple_Attachment_Unit_Interface), which seems to be easy enough to work around, with these [Farallon EtherMac 10Base-T Ethernet AAUI transceivers](https://apple.fandom.com/wiki/EtherMac), which I found at [Tech by Androda](https://androda.work/product/farallon-pn512b-aaui-10-baset-ethernet-transceiver/). 
 
 {% include pic.html n=8644 alt="Farallon EtherMac 10Base-T Ethernet AAUI adapter" %}
 

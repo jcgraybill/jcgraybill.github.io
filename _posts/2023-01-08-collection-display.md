@@ -33,7 +33,7 @@ So... back to Ace for more supplies, and then 24 hours of patching the drywall a
 {% include pic.html n=8633 alt="Patch step 1" %}
 {% include pic.html n=8638 alt="Patch step 2" %}
 
-And... voila! These turned out great. There's room to fit more on this wall, as I expand my collection. This is directly behind me when I'm doing video calls, and it's really neat to see somebody's eyes light up when they recognize a computer from their childhood. It has prompted a lot of neat conversations with people about how they got started with computers and technology.
+And... voila! These turned out great. There's room to fit more on this wall, as I expand my collection. It's so easy to pull any of these down and use it - they're just held in place by gravity, and a couple have silicone pads on the bracket to keep them in place. This display is directly behind me when I'm doing video calls, and it's really neat to see somebody's eyes light up when they recognize a computer from their childhood. It has prompted a lot of neat conversations with people about how they got started with computers and technology.
 
 {% include pic.html n=9052 alt="Computers displayed" %}
 
