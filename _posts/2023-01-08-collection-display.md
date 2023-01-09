@@ -9,7 +9,7 @@ My little house doesn't leave me a lot of space to display my collection of old 
 
 {% include pic.html n=8615 alt="Old computers" %}
 
-After a lot of shopping, researching, and brainstorming, I landed on [these steel shelf brackets](https://www.ekenamillwork.com/steel-hanging-shelf-bracket). The 8" deep ones with white primer would be almost invisible against the wall of my office, would hold the computers at a nice angle for display, and could easily support the weight. When mounted on drywall, each pair of bracket can support 100 lbs of weight... and these computers max out at 10 lbs. In person, they look totally nice.
+After a lot of shopping, researching, and brainstorming, I landed on [these steel shelf brackets](https://www.ekenamillwork.com/steel-hanging-shelf-bracket). The 8" deep ones with white primer would be almost invisible against the wall of my office, would hold the computers at a nice angle for display, and could easily support the weight. When mounted on drywall, each pair of brackets can support 100 lbs of weight... and these computers max out at 10 lbs. In person, they look totally nice.
 
 {% include pic.html n=8624 alt="Steel brackets in box" %}
 {% include pic.html n=8627 alt="Steel brackets" %}

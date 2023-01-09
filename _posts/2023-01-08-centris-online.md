@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Getting online, part 1"
+title:  "Getting the Centris 610 online"
 tag: Beige Macintoshes
 imagedir: beigemacs
 ---
@@ -16,3 +16,30 @@ A couple of them have proprietary [AAUI-15 ports](https://en.wikipedia.org/wiki/
 The oldest one, a [Centris 610](https://lowendmac.com/1993/centris-610/), doesn't even have an AAUI port, and it's not easy to find an Ethernet expansion card that's compatible with the Centris's [Quadra Processor Direct (PDS) slot](https://en.wikipedia.org/wiki/Processor_Direct_Slot#Quadra_PDS_(Motorola_68040)). In fact, I don't even see any compatible cards on [this list of classic Macintosh expansion cards](https://wiki.preterhuman.net/List_of_expansion_cards_for_Macintosh). What I *was* able to find were a lot of [NuBus](https://en.wikipedia.org/wiki/NuBus)-compatible Ethernet cards on eBay, as well as this PDS-to-NuBus adapter (M1402LL/A) made specifically for the Centris 610. Let's try them out!
 
 {% include pic.html n=8568 alt="Macintosh Centris 610 NuBus Adapter Card package, NuBus Ethernet card, Macintosh Centris 610" %}
+
+The adapter card is straightforward, the NuBus card fits snugly in, then the whole thing fits easily in the case.
+
+{% include pic.html n=8571 alt="Adapter card" %}
+{% include pic.html n=8573 alt="Adapter card with NuBus card installed" %}
+{% include pic.html n=8576 alt="Adapter card installed into Centris 610" %}
+
+I need to get some software onto the computer to get it online, which I'll transfer using [LocalTalk](https://en.wikipedia.org/wiki/LocalTalk) over a serial cable. I'll admit I can never remember which of these icons means "serial cable" and which means "[ADB](https://en.wikipedia.org/wiki/Apple_Desktop_Bus)". It's especially convenient that the serial cable symbol doesn't match either of the icons on the case next to the ports it attaches to.
+
+{% include pic.html n=8639 alt="Serial and ADB cable, or maybe ADB and serial cable" %}
+{% include pic.html n=8641 alt="Cables attached" %}
+
+The shared folder on my Beige G3 shows up in AppleTalk, and I begin the very very slow process of copying files over LocalTalk. First order of business, Connectix Speed Doubler, for its fast network file copy feature - to maybe speed up subsequent copies...
+
+{% include pic.html n="0001" alt="AppleTalk connection" %}
+{% include pic.html n="0002" alt="Copying files" %}
+
+Installing Open Transport and Netscape Navigator...
+
+{% include pic.html n="0009" alt="Open Transport installer splash screen" %}
+{% include pic.html n="0010" alt="Open Transport installer" %}
+
+{% include pic.html n="0004" alt="Netscape installer on desktop" %}
+{% include pic.html n="0005" alt="Netscape installer splash screen" %}
+{% include pic.html n="0007" alt="Netscape installed" %}
+
+And... it doesn't work. The ethernet lights are blinking, but the operating system isn't connected to my network. So, time for more troubleshooting. More updates to come.
