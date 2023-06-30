@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  "Getting the Centris 610 online"
+title:  "Connecting a Centris 610 to the internet"
 tag: Beige Macintoshes
 imagedir: beigemacs
 ---
-The two challenges to getting the 1990s macintoshes online are:
+I have a few beige Macintosh computers from the era of System 7 through Mac OS 9. Web browsers exist for these. Netscape Navigator was certainly available for 68k Macintoshes running System 7, but only one of the computers - a Power Macintosh G3 from 1997 - even has an [RJ45 Ethernet port](https://en.wikipedia.org/wiki/Modular_connector#8P8C). There's no WiFi hardware, of course. Home users would have been using modems, which isn't much of an option for me.
 
-1. Web browsers from this era don't implement modern web standards - specifically SSL - and so most websites won't even allow connections from them. It looks like this can be worked around by using a proxy server: I'm going to try [the WebOne proxy](https://github.com/atauenis/webone) for this.
-2. Only one of the computers - a Power Macintosh G3 from 1997 - even has an [RJ45 Ethernet port](https://en.wikipedia.org/wiki/Modular_connector#8P8C). This is what I'm tackling in this blog post.
+(There's also the issue that web browsers from this era all have long-expired SSL certificates, so can't access contemporary SSL-only websites, which is most webites. It looks like this can be worked around by using a proxy server: I'm going to try [the WebOne proxy](https://github.com/atauenis/webone) for this.)
 
 A couple of them have proprietary [AAUI-15 ports](https://en.wikipedia.org/wiki/Apple_Attachment_Unit_Interface), which seems to be easy enough to work around, with these [Farallon EtherMac 10Base-T Ethernet AAUI transceivers](https://apple.fandom.com/wiki/EtherMac), which I found at [Tech by Androda](https://androda.work/product/farallon-pn512b-aaui-10-baset-ethernet-transceiver/). 
 

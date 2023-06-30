@@ -49,7 +49,6 @@ GEM
     faraday-rack (1.0.0)
     faraday-retry (1.0.3)
     ffi (1.15.5)
-    ffi (1.15.5-x64-mingw-ucrt)
     ffi (1.15.5-x64-unknown)
     forwardable-extended (2.6.0)
     gemoji (3.0.1)
@@ -234,14 +233,8 @@ GEM
       jekyll-seo-tag (~> 2.1)
     minitest (5.17.0)
     multipart-post (2.1.1)
-    nokogiri (1.14.3)
+    nokogiri (1.13.10)
       mini_portile2 (~> 2.8.0)
-      racc (~> 1.4)
-    nokogiri (1.14.3-x64-mingw-ucrt)
-      racc (~> 1.4)
-    nokogiri (1.14.3-x86_64-darwin)
-      racc (~> 1.4)
-    nokogiri (1.14.3-x86_64-linux)
       racc (~> 1.4)
     octokit (4.22.0)
       faraday (>= 0.9)
@@ -286,7 +279,7 @@ GEM
     zeitwerk (2.6.6)
 
 PLATFORMS
-  x64-mingw-ucrt
+  arm64-darwin-22
   x64-unknown
   x86_64-darwin-21
   x86_64-linux
@@ -304,4 +297,4 @@ DEPENDENCIES
   webrick
 
 BUNDLED WITH
-   2.3.12
+   2.4.15
