@@ -5,7 +5,7 @@ layout: default
 ### :wave: 
 This is me: [LinkedIn](https://www.linkedin.com/in/jules-graybill/) / [GitHub](https://github.com/jcgraybill) / Mastodon (<a rel="me" href="https://oldbytes.space/@jcgraybill">oldbytes</a> / <a rel="me" href="https://fosstodon.org/@jcgraybill">fosstodon</a>).  Here some things I've done.
 
-### Library of Game Demos for Classic Macintoshes
+### Library of Game Demos for "Classic" Macintosh computers
 I love playing games on my little collection of 1990s-era Macintosh retro computers, but I'm pretty uninterested in hunting down 25-year-old CD cracks. I've been spoiled by the convenience of digital game distribution.
 
 But game *demos* are perfect bite-sized morsels of nostalgic fun that take almost no effort to get running. They were intended to be distributed!
