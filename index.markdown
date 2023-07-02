@@ -15,7 +15,7 @@ What if there was a website where lots of those game demos from magazine cover C
 So I started building that. It's at https://classicmacdemos.com
 
 ### Retrocomputing
-I'm collecting and restoring a small collection of computers from the 1980s and 1990s, and [writing about the process and what I learn](/vintage-computers/). I'm mostly interested in 8-bit and 16-bit all-in-one home microcomputers from the 1980s (think, Atari, Commodore, Apple...) and UNIX workstations and "beige" Macintoshes from the 1990s.
+I'm collecting and restoring a small collection of computers from the 1980s and 1990s, and [writing about the process and what I learn](/retrocomputing/). I'm mostly interested in 8-bit and 16-bit all-in-one home microcomputers from the 1980s (think, Atari, Commodore, Apple...) and UNIX workstations and "beige" Macintoshes from the 1990s.
 
 ### Website toys
 * **❤️ attraction**: A tile-and-grid puzzle game built for the [ebitengine game jam](https://itch.io/jam/ebiten-game-jam). [Play it on itch.io](https://ivlivs.itch.io/attraction).
