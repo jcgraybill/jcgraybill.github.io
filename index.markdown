@@ -22,6 +22,7 @@ I'm collecting and restoring a small collection of computers from the 1980s and 
 * **ship-shape**:  Supply chain management... *in space!* Made with [Ebitengine](https://ebitengine.org/) in Golang. [Play it in your browser](/ship-shape/).
 * **it costs money to be alive**: A short, simple side scroller made with [Ebitengine](https://ebitengine.org/) in Golang. [Play it in your browser](/it-costs-money/).
 * **Multi Pong**: A multi-window pong game. Fire up your emulators, blow the dust off that Quadra 650 in the closet, this is playable on Macintosh System 7. Also, you can [try it in your browser](/multi-pong/). 
+* **lightcycles.py**: A multiplayer light cycles game written in Pygame. [Play it in your browser](/lightcycles/).
 
 ### OpenSearch
 I used to be responsible for [OpenSearch](https://opensearch.org/), an open source fork of [Elasticsearch](https://www.elastic.co/elasticsearch/). I'm no longer involved with OpenSearch, but both it and Elasticsearch are great software.
