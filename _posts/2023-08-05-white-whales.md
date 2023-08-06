@@ -53,7 +53,7 @@ Okay, this list isn't all Apple computers. That was the final one, I swear.
 
 {% include pic.html n="WW04" alt="Silicon Graphics O2" %}
 
-# 2: Silicon Graphics O2 (1996)
+# 4: Silicon Graphics O2 (1996)
 
 I was bouncing between startups in Los Angeles in the 1990s, and I remember a recruiter telling me about a company that hadn't even figured out what they were going to build yet, but if you worked there, you would get an [O2](http://www.sgistuff.net/hardware/systems/o2.html). And I considered it very seriously.
 
@@ -63,7 +63,7 @@ I didn't take the job. Hey recruiter, if you're still out there and the offer's 
 
 {% include pic.html n="WW05" alt="BeBox" %}
 
-# 1. BeBox (1995)
+# 5. BeBox (1995)
 
 There was a period of time, which felt years long to me, where it seemed that [BeOS](https://en.wikipedia.org/wiki/BeOS) could very well represent the future of computing. Apple would acquire [Be, Inc.](https://en.wikipedia.org/wiki/Be_Inc.), slap [Appearance Manager](https://en.wikipedia.org/wiki/Appearance_Manager) on top and [SheepShaver](https://en.wikipedia.org/wiki/SheepShaver) for Classic Mac OS compatibility, and bam! A PowerPC-native Mac OS 8 with pre-emptive multitasking, symmetric multiprocessing, and protected memory, written top to bottom in C++. Faster, safer, and easier to use than Windows 95, a thousand flowers would bloom, as OEMs raced to build [CHRP](https://en.wikipedia.org/wiki/Common_Hardware_Reference_Platform)-compatible BeOS-powered Macintoshes. The sins of [Copland](/2023/03/19/copland.html) are forgiven. Peace reigns across the land.
 
