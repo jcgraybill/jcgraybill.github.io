@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Retrocomputing white whales"
-tag: Collection
-imagedir: collection
+tag: White Whales
+imagedir: whitewhales
 ---
 
 One of the constraints around my interest in old computers is that I don't live in a very big place, and I don't  enjoy clutter. I have a mixed relationship with legendary collections like the [Retro Computer Museum](https://retrocomputermuseum.co.uk/). It brings me joy to visit, but if I lived there, I would eventually start tidying up. It's probably a healthy constraint. With no counterbalance an interest like this could get out of hand.

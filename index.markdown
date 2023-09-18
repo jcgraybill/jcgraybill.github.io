@@ -17,7 +17,7 @@ So I started building that. It's at https://classicmacdemos.com
 ### Retrocomputing
 I'm collecting and restoring a small collection of computers from the 1980s and 1990s, and [writing about the process and what I learn](/retrocomputing/). I'm mostly interested in 8-bit and 16-bit all-in-one home microcomputers from the 1980s (think, Atari, Commodore, Apple...) and UNIX workstations and "beige" Macintoshes from the 1990s.
 
-### Website toys
+### Games
 * **❤️ attraction**: A tile-and-grid puzzle game built for the [ebitengine game jam](https://itch.io/jam/ebiten-game-jam). [Play it on itch.io](https://ivlivs.itch.io/attraction).
 * **ship-shape**:  Supply chain management... *in space!* Made with [Ebitengine](https://ebitengine.org/) in Golang. [Play it in your browser](/ship-shape/).
 * **it costs money to be alive**: A short, simple side scroller made with [Ebitengine](https://ebitengine.org/) in Golang. [Play it in your browser](/it-costs-money/).
