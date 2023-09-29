@@ -35,6 +35,8 @@ The fastest computer that can boot a "[Classic](https://en.wikipedia.org/wiki/Cl
 
 While there are [faster PowerPC machines](https://everymac.com/mac-answers/mac-os-9-classic-support-faq/last-macs-to-support-macos-9-classic.html) that can Classic programs in run Mac OS X's "[Classic Environment](https://en.wikipedia.org/wiki/List_of_macOS_built-in_apps#Classic)", for a pure, no-apologies Mac OS 9 experience, this is as good as it gets. It's big and it's loud, but also it's shiny and it's thoughtfully designed for easy upgrades. Sign me up.
 
+***UPDATE: I caught one!*** Read: ["Mirrored Drive Door" Power Macintosh G4](/2022/09/29/g4-mdd-mac-os-9.html)
+
 {% include pic.html n="WW03" alt="Twentieth Anniversary Macintosh" %}
 
 # 3: Twentieth Anniversary Macintosh (1997)
