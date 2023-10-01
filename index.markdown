@@ -5,17 +5,13 @@ layout: default
 ### :wave: 
 This is me: [LinkedIn](https://www.linkedin.com/in/jules-graybill/) / [GitHub](https://github.com/jcgraybill) / Mastodon (<a rel="me" href="https://oldbytes.space/@jcgraybill">oldbytes</a> / <a rel="me" href="https://fosstodon.org/@jcgraybill">fosstodon</a>).  Here some things I've done.
 
-### Library of Game Demos for "Classic" Macintosh computers
-I love playing games on my little collection of 1990s-era Macintosh retro computers, but I'm pretty uninterested in hunting down 25-year-old CD cracks. I've been spoiled by the convenience of digital game distribution.
+### Game Demos for Classic-era Macintosh computers
+I love playing games on my little collection of 1990s-era Macintosh retro computers, but I'm pretty uninterested in hunting down workarounds for decades-old copy-protection schemes. But game *demos* are perfect bite-sized morsels of nostalgic fun that take almost no effort to get running. They were intended to be distributed!
 
-But game *demos* are perfect bite-sized morsels of nostalgic fun that take almost no effort to get running. They were intended to be distributed!
-
-What if there was a website where lots of those game demos from magazine cover CDs were individually available for download? What if that site had an http-only mode so you could access it directly from an old Macintosh?
-
-So I started building that. It's at https://classicmacdemos.com
+What if there was a website where lots of those game demos from magazine cover CDs were individually available for download? What if that site had an http-only mode so you could access it directly from an old Macintosh? So I started building that. It's at https://classicmacdemos.com
 
 ### Retrocomputing
-I'm collecting and restoring a small collection of computers from the 1980s and 1990s, and [writing about the process and what I learn](/retrocomputing/). I'm mostly interested in 8-bit and 16-bit all-in-one home microcomputers from the 1980s (think, Atari, Commodore, Apple...) and UNIX workstations and "beige" Macintoshes from the 1990s.
+I'm collecting and restoring a small collection of computers from the 1980s and 1990s, and [writing about the process and what I learn](/retrocomputing/). The focus is 8-bit and 16-bit all-in-one home computers from the 1980s (think, Atari, Commodore, Apple...) plus UNIX workstations and beige-era Macintoshes from the 1990s.
 
 ### Games
 * **❤️ attraction**: A tile-and-grid puzzle game built for the [ebitengine game jam](https://itch.io/jam/ebiten-game-jam). [Play it on itch.io](https://ivlivs.itch.io/attraction).
