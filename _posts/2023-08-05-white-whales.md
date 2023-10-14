@@ -39,7 +39,7 @@ While there are [faster PowerPC machines](https://everymac.com/mac-answers/mac-o
 
 # 3: Twentieth Anniversary Macintosh (1997)
 
-<a href="https://media.julesgraybill.com/images/whitewhales/WW-TAM.png"><img src="https://media.julesgraybill.com/images/whitewhales/WW-TAM.png" border="0"></a>
+<a href="https://media.julesgraybill.com/images/whitewhales/WW-TAM.png"><img src="https://media.julesgraybill.com/images/whitewhales/WW-TAM.png" border="0" alt="Twentieth Anniversary Macintosh"></a>
 Image credit: <a href="https://tenforward.social/@nicky">MHzModels</a> (<a href="https://ko-fi.com/mhzmodels" target="_blank">ko-fi</a>)
 
 The stereotype about Apple products is that they're underpowered, overpriced, overhyped toys for gullible fanbois. And then there's the Twentieth Anniversary Macintosh, which was *delivered to your house by tuxedo-wearing concierges*. 
@@ -56,7 +56,7 @@ Okay, this list isn't all Apple computers. That was the final one, I swear.
 
 # 4: Silicon Graphics O2 (1996)
 
-<a href="https://media.julesgraybill.com/images/whitewhales/WW-O2.png"><img src="https://media.julesgraybill.com/images/whitewhales/WW-O2.png" border="0"></a>
+<a href="https://media.julesgraybill.com/images/whitewhales/WW-O2.png"><img src="https://media.julesgraybill.com/images/whitewhales/WW-O2.png" border="0" alt="SGI O2"></a>
 Image credit: <a href="https://tenforward.social/@nicky">MHzModels</a> (<a href="https://ko-fi.com/mhzmodels" target="_blank">ko-fi</a>)
 
 I was bouncing between startups in Los Angeles in the 1990s, and I remember a recruiter telling me about a company that hadn't even figured out what they were going to build yet, but if you worked there, you would get an [O2](http://www.sgistuff.net/hardware/systems/o2.html). And I considered it very seriously.
@@ -69,6 +69,7 @@ I didn't take the job. Hey recruiter, if you're still out there and the offer's 
 
 <a href="https://media.julesgraybill.com/images/whitewhales/WW-BeBox.mp4">
 <video autoplay loop>
+BeBox
 <source src="https://media.julesgraybill.com/images/whitewhales/t/WW-BeBox.mov" type="video/mp4">
 </video>
 </a>
