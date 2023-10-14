@@ -15,9 +15,9 @@ And then I made five exceptions.
 
 There are five computers whose shape doesn't fit those rules, but which are so interesting or special to me that they would warrant a slice of the very limited tabletop real estate in my collection. These are my "[white whales](https://en.wikipedia.org/wiki/Moby-Dick)". If I have an opportunity to get one of them I'll consider it, even though it breaks my other rules. This entry is about those computers and what they mean to me. Let's go newest to oldest.
 
-{% include pic.html n="WW01" alt="2013 Mac Pro" %}
-
 # 1: "Trashcan" Mac Pro (2013)
+
+{% include pic.html n="WW01" alt="2013 Mac Pro" %}
 
 Sorry, the "[cylinder](https://en.wikipedia.org/wiki/Mac_Pro#Cylinder_(2013))". The last truly weird computer that's ever been released, in my opinion. A bold weird experiment which produced a workstation that's quite decent on most dimensions except for upgradability. Easy-to-upgrade turns out to matter quite a bit for professional workstations, it turns out, and so Apple returned  to the sensible but unoriginal PC tower form factor for the next generation of Mac Pros.
 
@@ -27,19 +27,20 @@ Which means there are a handful of programs - games in particular - that this is
 
 Its weirdness appeals to me. Apple just keeps trying to make cubes and cylinders and slabs happen, and I love them for it. As a piece of design, it works for me. The fact that it's the last of its line feels a touch romantic, as odd as that sentiment is about a computer. When it was new, the top of the line model would have set you back $7000, with upgrades pushing that well into five figures. And while nobody would call retrocomputing a cheap hobby, with a little bit of effort you could find one of these at more than a 95% discount today.  They're square in the value trough where they're too old to be useful but too new to be collectible.  There's something fun about something you remember being exciting but prohibitively expensive, and now you can actually get one for not *that* much.
 
+# 2: "Mirrored Drive Door" Power Macintosh G4 (2003)
+
 {% include pic.html n="WW02" alt="Power Macintosh G4" %}
 
-# 2: "Mirrored Drive Door" Power Macintosh G4 (2003)
+***UPDATE: I caught one!*** Read: ["Mirrored Drive Door" Power Macintosh G4](/2022/09/29/g4-mdd-mac-os-9.html)
 
 The fastest computer that can boot a "[Classic](https://en.wikipedia.org/wiki/Classic_Mac_OS)" (pre-[OSX](https://en.wikipedia.org/wiki/MacOS)) Macintosh operating system. Technically the best-specced model was released in 2002 with [dual 1.25 GHz CPUs](https://everymac.com/systems/apple/powermac_g4/specs/powermac_g4_1.25_dp_mdd.html), although in practice Mac OS 9 had no ability to do [symmetric multiprocesssing](https://www.techtarget.com/searchdatacenter/definition/SMP) so the second CPU just sat there idle unless you were using one of the very few applications (like Photoshop) with multiprocessor support. So the [2003 single-CPU 1.25 GHz model](https://everymac.com/systems/apple/powermac_g4/specs/powermac_g4_1.25_mdd.html) may be tied for first, if a Classic Mac OS experience is what you're after. And that's indeed what I'm after. I got hooked on the classic Macintosh UI the moment I saw it in 1984, and I still think the [Platinum design language](https://en.wikipedia.org/wiki/Appearance_Manager) is the pinnacle of great-looking software.
 
 While there are [faster PowerPC machines](https://everymac.com/mac-answers/mac-os-9-classic-support-faq/last-macs-to-support-macos-9-classic.html) that can Classic programs in run Mac OS X's "[Classic Environment](https://en.wikipedia.org/wiki/List_of_macOS_built-in_apps#Classic)", for a pure, no-apologies Mac OS 9 experience, this is as good as it gets. It's big and it's loud, but also it's shiny and it's thoughtfully designed for easy upgrades. Sign me up.
 
-***UPDATE: I caught one!*** Read: ["Mirrored Drive Door" Power Macintosh G4](/2022/09/29/g4-mdd-mac-os-9.html)
-
-{% include pic.html n="WW03" alt="Twentieth Anniversary Macintosh" %}
-
 # 3: Twentieth Anniversary Macintosh (1997)
+
+<a href="https://media.julesgraybill.com/images/whitewhales/WW-TAM.png"><img src="https://media.julesgraybill.com/images/whitewhales/WW-TAM.png" border="0"></a>
+Image credit: <a href="https://tenforward.social/@nicky">MHzModels</a> (<a href="https://ko-fi.com/mhzmodels" target="_blank">ko-fi</a>)
 
 The stereotype about Apple products is that they're underpowered, overpriced, overhyped toys for gullible fanbois. And then there's the Twentieth Anniversary Macintosh, which was *delivered to your house by tuxedo-wearing concierges*. 
 
@@ -53,9 +54,10 @@ I still fondly remember dreaming of a life with one of these on my desk. It's no
 
 Okay, this list isn't all Apple computers. That was the final one, I swear.
 
-{% include pic.html n="WW04" alt="Silicon Graphics O2" %}
-
 # 4: Silicon Graphics O2 (1996)
+
+<a href="https://media.julesgraybill.com/images/whitewhales/WW-O2.png"><img src="https://media.julesgraybill.com/images/whitewhales/WW-O2.png" border="0"></a>
+Image credit: <a href="https://tenforward.social/@nicky">MHzModels</a> (<a href="https://ko-fi.com/mhzmodels" target="_blank">ko-fi</a>)
 
 I was bouncing between startups in Los Angeles in the 1990s, and I remember a recruiter telling me about a company that hadn't even figured out what they were going to build yet, but if you worked there, you would get an [O2](http://www.sgistuff.net/hardware/systems/o2.html). And I considered it very seriously.
 
@@ -63,9 +65,15 @@ The O2 wasn't SGI's top-of-the-line, not by a mile. They had just bought [Cray](
 
 I didn't take the job. Hey recruiter, if you're still out there and the offer's still good, 📞.
 
-{% include pic.html n="WW05" alt="BeBox" %}
-
 # 5. BeBox (1995)
+
+<a href="https://media.julesgraybill.com/images/whitewhales/WW-BeBox.mp4">
+<video autoplay loop>
+<source src="https://media.julesgraybill.com/images/whitewhales/t/WW-BeBox.mov" type="video/mp4">
+</video>
+</a>
+
+Image credit: <a href="https://tenforward.social/@nicky">MHzModels</a> (<a href="https://ko-fi.com/mhzmodels" target="_blank">ko-fi</a>)
 
 There was a period of time, which felt years long to me, where it seemed that [BeOS](https://en.wikipedia.org/wiki/BeOS) could very well represent the future of computing. Apple would acquire [Be, Inc.](https://en.wikipedia.org/wiki/Be_Inc.), slap [Appearance Manager](https://en.wikipedia.org/wiki/Appearance_Manager) on top and [SheepShaver](https://en.wikipedia.org/wiki/SheepShaver) underneath for Classic Mac OS compatibility, and bam! A PowerPC-native Mac OS 8 with pre-emptive multitasking, symmetric multiprocessing, and protected memory, written top to bottom in C++. Faster, safer, and easier to use than Windows 95, a thousand flowers would bloom, as OEMs raced to build [CHRP](https://en.wikipedia.org/wiki/Common_Hardware_Reference_Platform)-compatible BeOS-powered Macintoshes. The sins of [Copland](/2023/03/19/copland.html) are forgiven. Peace reigns across the land.
 
