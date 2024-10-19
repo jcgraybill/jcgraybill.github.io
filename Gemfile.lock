@@ -252,7 +252,7 @@ GEM
     rb-fsevent (0.11.1)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
-    rexml (3.3.3)
+    rexml (3.3.6)
       strscan
     rouge (3.26.0)
     ruby2_keywords (0.0.5)
@@ -280,7 +280,7 @@ GEM
       unf_ext
     unf_ext (0.0.8.1)
     unicode-display_width (1.8.0)
-    webrick (1.7.0)
+    webrick (1.8.2)
     zeitwerk (2.6.6)
 
 PLATFORMS
